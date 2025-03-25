@@ -1,0 +1,49 @@
+"79f1ce9b-e09c-447a-a3e8-a36ce886e1b0":
+    Name : "Y5Lib"
+    Description : "C# Scripting API for Yakuza 5"
+    Version : "1.0.0"
+    Author : "Jhrino"
+    CanBeDisabled : true
+    TargetGames : "yakuza5;"
+    Source : "https://github.com/Fronkln/Y5Lib"
+    Download: "https://github.com/Fronkln/Y5Lib/releases/download/0.1/Y5Lib.zip"
+
+"8c7c5515-58db-4b62-94d6-be3e0a4fc9a7":
+    Name : "Ogre Command"
+    Description : "Makes fighter command editable on Yakuza 3 and 4"
+    Version : "1.0.0"
+    Author : "Jhrino"
+    CanBeDisabled : true
+    TargetGames : "yakuza3;yakuza4"
+    Source : "https://github.com/Fronkln/OgreCommand"
+    Download: "https://github.com/Fronkln/OgreCommand/releases/download/1.0.0/OgreCommand.zip"
+
+"62d185f2-0d10-42d0-955c-67bf5f757994":
+    Name : "DE Library"
+    Description : "C++/C# API for Dragon Engine games"
+    Version : "0.1"
+    Author : "Jhrino"
+    CanBeDisabled : true
+    TargetGames : "likeadragon8;"
+    Source : "https://github.com/Fronkln/Dragon-Engine-.NET"
+    Download: "https://github.com/Fronkln/Dragon-Engine-.NET/releases/download/0.1/DE.Library.Y8.zip"
+
+"64b05dbe-c7fa-4b36-9427-082b915645cb":
+    Name : "EX Auth"
+    Description : "Extends auth system of Dragon Engine games"
+    Version : "0.2"
+    Author : "Jhrino"
+    CanBeDisabled : true
+    TargetGames : "yakuzakiwami2;judgment;lostjudgment;yakuzalikeadragon;likeadragon8;"
+    Source : "https://github.com/Fronkln/EX-Auth"
+    Download: "https://github.com/Fronkln/EX-Auth/releases/download/0.2/EX.Auth.zip"
+
+"63943da8-94e0-4800-93a2-23b07937f764":
+    Name : "EX Auth Condition"
+    Description : "63943da8-94e0-4800-93a2-23b07937f764"
+    Version : "0.1"
+    Author : "Jhrino"
+    CanBeDisabled : true
+    TargetGames : "yakuzalikeadragon;likeadragon8;"
+    Source : "https://github.com/Fronkln/EX-Auth-Condition"
+    Download: "https://github.com/Fronkln/EX-Auth-Condition/releases/download/0.1/EX.Auth.Condition.zip"
