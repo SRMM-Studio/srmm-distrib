@@ -1,7 +1,7 @@
 "79f1ce9b-e09c-447a-a3e8-a36ce886e1b0":
     Name : "Y5Lib"
     Description : "C# Scripting API for Yakuza 5"
-    Version : "1.0.0"
+    Version : "0.1"
     Author : "Jhrino"
     CanBeDisabled : true
     TargetGames : "yakuza5;"
